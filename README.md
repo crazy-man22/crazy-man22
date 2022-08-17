@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🌐 You can access all my open-source projects here on GitHub(for example [Netflix Clone](https://github.com/endo-aki22/netflix-clone-react-typescript))
 - 🤔I like challenging a technically difficult problem. because challenges make me stronger and better.
 
+<!--
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -38,12 +39,33 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+-->
+### Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+### Technologies
+
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=GCP)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/endo-aki22/endo-aki22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endo-aki22&hide=html,css,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endo-aki22&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/endo-aki22/endo-aki22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=endo-aki22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Endo Aki's GitHub Stats" />
 </a>
