@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 -->
 ## :book: About Me
 - 🖥 Full-Stack Web Developer
-- 🎓 Bachelor's degree in Computer Science at the Okayama University of Science
 - 🌐 You can access all my open-source projects here on GitHub(for example [Netflix Clone](https://github.com/endo-aki22/netflix-clone-react-typescript))
 - 🤔 I like challenging a technically difficult problem. because challenges make me stronger and better.
 
