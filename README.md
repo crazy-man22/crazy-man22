@@ -39,29 +39,29 @@ Here are some ideas to get you started:
 -->
 ### Programming Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart)
+![C](https://img.shields.io/badge/-C-000?logo=C)
+![C++](https://img.shields.io/badge/-C++-000?logo=C++)
+![Swift](https://img.shields.io/badge/-swift-000?logo=Swift)
+![Dart](https://img.shields.io/badge/-Dart-000?logo=Dart)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-000?logo=PHP)
 
 ### Technologies & Frameworks
 
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=GCP)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel)
+![Flutter](https://img.shields.io/badge/-Flutter-000?logo=Flutter)
+![Android](https://img.shields.io/badge/-Android-000?logo=Android)
+![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
+![Django](https://img.shields.io/badge/-Django-000?logo=Django)
+![Laravel](https://img.shields.io/badge/-Laravel-000?logo=Laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Next JS](https://img.shields.io/badge/-Next-000?logo=next.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?logo=graphql)
 
 ## &#x1f4c8; GitHub Stats
 
